@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Here I have some problems that I solved in C++
+A collection of C++ programs focused on Data Structures and Algorithms. Includes implementations of common algorithms and data structures, designed for learning and practice.
